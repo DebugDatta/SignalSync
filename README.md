@@ -431,6 +431,4 @@ To replicate results:
 2. Set identical weight values for all four indicator categories
 3. Ensure data source (Yfinance) returns unadjusted closing prices
 4. Do not modify indicator calculation parameters (n, k values)
-5. Use the same timestamp for data retrieval (Yfinance updates end of day)#   S i g n a l S y n c 
- 
- 
+5. Use the same timestamp for data retrieval (Yfinance updates end of day)#
