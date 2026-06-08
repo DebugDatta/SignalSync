@@ -4,6 +4,8 @@
 
 This engine is a systematic technical analysis tool that aggregates signals from four indicator categories (trend, momentum, volatility, volume) into a single normalized consensus score. The methodology eliminates discretionary decision making by applying fixed rule based thresholds and user defined preference weights to generate reproducible directional bias signals.
 
+https://signalsync.streamlit.app/
+
 ## Mathematical Notation
 
 The following notation is used throughout this document:
